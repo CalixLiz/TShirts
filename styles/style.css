@@ -38,7 +38,7 @@ p.price{
   color: #47a3da;
   font-weight: bold;
   margin-left: 80%;
-  margin-top: -18%;
+  margin-top: -6%;
   font-size-adjust: 0.58;
 }
 
@@ -53,7 +53,7 @@ p.price{
 .MMS{
   position: absolute;
   top: -2px;
-  left: 77%;
+  left: 84%;
   padding: 8px;
   cursor: pointer;
   
@@ -109,8 +109,8 @@ p.price{
 
 #colors{
   position: absolute;
-  left: -10px;
-  transform: translateY(-135%);
+  left: -1px;
+  transform: translateY(-160%);
   width: 56px;
   height: 50px;
   padding: 5px;
